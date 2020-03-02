@@ -1,0 +1,25 @@
+{
+  "name": "@tromkom/aurora-session-lib",
+  "version": "1.0.0",
+  "description": "Library for connecting to aurora-session",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "wretch": "^1.7.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "dotenv": "^8.2.0",
+    "fetch-cookie": "^0.7.3",
+    "koa": "^2.11.0",
+    "koa-session": "^5.13.1",
+    "mocha": "^7.1.0"
+  }
+}
