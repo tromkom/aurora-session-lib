@@ -20,7 +20,7 @@
     "fetch-cookie": "^0.7.3",
     "koa": "^2.11.0",
     "koa-session": "^5.13.1",
-    "mocha": "^7.1.0"
+    "mocha": "^10.2.0"
   },
   "repository": {
     "type": "git",
